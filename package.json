@@ -4,6 +4,7 @@
   "description": "Simple Selenium WebDriver demo",
   "main": "google_search.js",
   "dependencies": {
+    "chromedriver": "^2.27.2",
     "selenium-webdriver": "^3.0.1"
   },
   "devDependencies": {},

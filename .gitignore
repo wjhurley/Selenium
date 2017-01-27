@@ -43,3 +43,4 @@ node_modules/*
 # Other Files #
 ###############
 limeade_search.js
+statement_scraper.js
